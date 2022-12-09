@@ -31,9 +31,10 @@ public static void main(String[] args) throws EncryptedDocumentException, IOExce
 		
 		double num = row.getCell(3).getNumericCellValue();
 		boolean bool = row.getCell(4).getBooleanCellValue();	
-		
+
 		System.out.println(num);
 		System.out.println(bool);
+		
 		
 	}
 
