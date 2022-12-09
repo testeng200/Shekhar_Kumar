@@ -1,4 +1,4 @@
-package taskTest;
+package basicTestScriptTest;
 
 import java.io.IOException;
 
